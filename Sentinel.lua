@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://loader.auroraxofuscador.site/api/public/l/SegurityPro.lua"))()
+loadstring(game:HttpGet("https://api.aurorax.site/AuroraSegurityPro.lua"))()
