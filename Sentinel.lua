@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://api.aurorax.site/AuroraSegurityPro.lua"))()
+loadstring(game:HttpGet("https://api.aurorax.site/aurorasegurityLite.lua"))()
